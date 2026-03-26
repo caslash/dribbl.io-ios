@@ -1,0 +1,41 @@
+# Xcode
+## Build generated
+build/
+DerivedData/
+
+## Various settings
+ExportOptions.plist
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+*.xctxskc
+*.swift-version
+.idea/
+
+## Packages
+*.xcworkspace
+!default.xcworkspace
+
+## Swift Package Manager
+.swiftpm/
+
+## CocoaPods
+# Pods/ (Optional - depends on team preference for committing dependencies)
+# Podfile.lock (Optional - often version controlled for consistent dependency versions)
+
+## Carthage
+Carthage/Build/
+
+## Playgrounds
+*.playground/xcuserdata
+
+# macOS
+.DS_Store
+
